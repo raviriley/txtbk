@@ -1,0 +1,8 @@
+Introduction to Linear Algebra, Fifth Edition
+http://math.mit.edu/~gs/linearalgebra/
+
+Schaum's Outline of Linear Algebra, Fifth Edition
+https://www-accessengineeringlibrary-com.libproxy.berkeley.edu/content/book/9780071794565
+
+Schaum's Outline of Electric Circuits, Seventh Edition
+https://www-accessengineeringlibrary-com.libproxy.berkeley.edu/content/book/9781260011968
